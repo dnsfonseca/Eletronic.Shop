@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Dominio\bin\Debug\Eletronic.Shop.Dominio.dll
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Dominio\bin\Debug\Eletronic.Shop.Dominio.pdb
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Dominio\obj\Debug\Eletronic.Shop.Dominio.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Dominio\obj\Debug\Eletronic.Shop.Dominio.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Dominio\obj\Debug\Eletronic.Shop.Dominio.dll
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Dominio\obj\Debug\Eletronic.Shop.Dominio.pdb

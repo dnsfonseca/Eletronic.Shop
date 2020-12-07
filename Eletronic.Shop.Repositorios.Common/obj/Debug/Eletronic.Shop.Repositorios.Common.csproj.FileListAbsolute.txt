@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Repositorios.Common\bin\Debug\Eletronic.Shop.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Repositorios.Common\bin\Debug\Eletronic.Shop.Repositorios.Common.pdb
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Repositorios.Common\obj\Debug\Eletronic.Shop.Repositorios.Common.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Repositorios.Common\obj\Debug\Eletronic.Shop.Repositorios.Common.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Repositorios.Common\obj\Debug\Eletronic.Shop.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Eletronic.Shop\Eletronic.Shop.Repositorios.Common\obj\Debug\Eletronic.Shop.Repositorios.Common.pdb
